@@ -5,4 +5,5 @@ package com.atguigu.service.impl;
  * @created by Lenovo on 2021/1/7
  */
 public class A {
+  private String id;
 }
